@@ -6,7 +6,7 @@ class AnimalClass{
 	}
 }
 
-class Lion extends AnimalClass{
+class Elephant extends AnimalClass{
 	void sound() {
 		System.out.println("Elephant trumpets......");
 	}

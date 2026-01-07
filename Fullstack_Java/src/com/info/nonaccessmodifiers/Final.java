@@ -18,3 +18,4 @@ public class Final {
 class Example extends Final {
     
 }
+
